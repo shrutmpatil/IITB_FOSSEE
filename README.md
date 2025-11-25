@@ -28,3 +28,14 @@ For a complete understanding of the environment setup, including all prerequisit
 [**Read the Detailed `report.md`**](report.md)
 
 -----
+
+### **Collaborators:**
+
+## 👥 Collaborators
+
+<p align="center">
+  <a href="https://github.com/shrutmpatil"><img src="https://img.shields.io/badge/Shrut-Patil-blue?style=for-the-badge&logo=github" alt="Shrut Patil GitHub"></a>
+  <a href="https://github.com/siddhilad920"><img src="https://img.shields.io/badge/Siddhi-Lad-lightgrey?style=for-the-badge&logo=github" alt="Siddhi Lad GitHub"></a>
+</p>
+
+-----
