@@ -88,7 +88,7 @@ The integrated `idf.py` command handles the entire workflow: compiling the firmw
 | `idf.py qemu monitor` | Runs the compiled firmware in the QEMU emulator. |
 
 ---
-## Demo 1: LED Blink
+## LED Blink using ESP32
 
 ### **Description**
 This project simulates blinking an LED connected to **GPIO\_NUM\_2** by toggling the pin level every 1000 milliseconds (1 second). The application logs the state changes ("LED ON", "LED OFF") to the console.
@@ -107,11 +107,12 @@ idf.py qemu monitor
 ### **Output**
 The console log will show the "LED ON" and "LED OFF" messages alternating every second.
 
-Demo 1 Implementation Screenshot: ESP32 LED Blink in QEMU
-Placeholder:
+Implementation Screenshot: ESP32 LED Blink in QEMU
+<img width="1920" height="1080" alt="Screenshot from 2025-11-23 16-45-30" src="https://github.com/user-attachments/assets/db9d5a4b-3a7d-4c67-ba47-ec7e3493cbcd" />
+
 
 ---
-## Demo 2: Simulated Temperature
+## Simulated Temperature Sensor using ESP32
 
 ### **Description**
 This project simulates a sensor reading by generating a random floating-point temperature value between **20.0°C and 25.0°C** every 5 seconds. It utilizes standard C library functions and prints the reading to the console with two decimal places.
@@ -130,8 +131,9 @@ idf.py qemu monitor
 ### **Output**
 The console log will continuously print the simulated temperature readings, formatted to two decimal places.
 
-Demo 2 Implementation Screenshot: Simulated Temperature Reading in QEMU
-Placeholder: [Screenshot of QEMU Monitor Output showing continuously printed temperature values.]
+Implementation Screenshot: Simulated Temperature Reading in QEMU
+<img width="1920" height="1080" alt="Screenshot from 2025-11-23 17-12-51" src="https://github.com/user-attachments/assets/6b2ce6dc-33bf-42b1-a1e8-342904a6751b" />
+
 
 ---
 ## Challenges & Learnings
